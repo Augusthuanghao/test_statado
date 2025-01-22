@@ -1,2 +1,2 @@
-# test_stata
+# test_statado
 stata_do
