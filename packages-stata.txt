@@ -1,0 +1,2 @@
+setroot >= 1.0.0 , from("https://raw.githubusercontent.com/sergiocorreia/stata-setroot/master/src/")
+yamlout >= 0.0.2 , from("https://gist.githubusercontent.com/michaelstepner/7026967a50db98bd39a58b20f01dbe70/raw/811946afc264ce607c9737de26747bf6c3836a9e/")
